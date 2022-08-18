@@ -1,6 +1,6 @@
 {
-  "name": "@windmill/react-ui2",
-  "version": "0.6.0",
+  "name": "windmill-react-ui2",
+  "version": "0.0.1",
   "description": "React UI component library built with Tailwind CSS, just an update to @tailwindcss/forms to 0.5.2",
   "main": "dist/index.js",
   "files": [
@@ -120,7 +120,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/"
   },
   "babel": {
     "presets": [
