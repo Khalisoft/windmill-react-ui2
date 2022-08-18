@@ -1,5 +1,5 @@
 {
-  "name": "windmill-react-ui2",
+  "name": "@khalisoft/windmill-react-ui2",
   "version": "0.0.1",
   "description": "React UI component library built with Tailwind CSS, just an update to @tailwindcss/forms to 0.5.2",
   "main": "dist/index.js",

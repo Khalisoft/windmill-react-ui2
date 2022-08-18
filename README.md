@@ -22,7 +22,7 @@ Be the most accessible it can be out of the box and the fastest way to productio
 Install
 
 ```sh
-npm i @windmill/react-ui
+npm i @khalisoft/windmill-react-ui2
 ```
 
 Inside `tailwind.config.js`
